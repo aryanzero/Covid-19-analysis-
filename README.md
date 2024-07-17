@@ -22,25 +22,14 @@ Google Colab: For writing and executing the code in a Jupyter Notebook environme
 GitHub: For version control and project collaboration.
 Installation
 Clone the Repository:
-
-bash
-Copy code
 git clone https://github.com/your-username/covid19-data-analysis.git
-Navigate to the Project Directory:
 
-bash
-Copy code
+Navigate to the Project Directory:
 cd covid19-data-analysis
 Install the Required Libraries:
-
-bash
-Copy code
 pip install -r requirements.txt
 Usage
 Open the Jupyter Notebook:
-
-bash
-Copy code
 jupyter notebook covid19_analysis.ipynb
 Run the Notebook:
 Execute the cells in the notebook to perform the analysis and generate visualizations.
