@@ -69,12 +69,4 @@ This project involves a comprehensive analysis of COVID-19 data for the United S
 - **Heatmaps:** Displaying the intensity of COVID-19 spread across regions.
 - **Pie Charts:** Illustrating the distribution of cases by age groups or other categories.
 
-## Contributors
-- **Your Name:** Lead Data Analyst and Developer
-- **Team Members:** Collaborators and contributors
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
