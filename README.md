@@ -3,7 +3,7 @@
 
 ## Overview
 This project involves a comprehensive analysis of COVID-19 data for the United States, utilizing various Python libraries to derive insights and visualize the trajectory of the pandemic. The analysis was conducted in a Jupyter Notebook on Google Colab.
-
+link: https://colab.research.google.com/drive/16kSpEqUhIt8D8-68CKR2ur0BCni6OPjx
 ## Features
 - **Data Collection:** Collected COVID-19 data from reliable sources for accurate analysis.
 - **Data Cleaning:** Processed and cleaned the data to ensure consistency and reliability.
