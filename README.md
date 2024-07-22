@@ -54,6 +54,15 @@ link: https://colab.research.google.com/drive/16kSpEqUhIt8D8-68CKR2ur0BCni6OPjx
 2. **Run the Notebook:**
    Execute the cells in the notebook to perform the analysis and generate visualizations.
 
+## Screenshots:
+![image](https://github.com/user-attachments/assets/35fa603e-58ec-42e1-a2c4-12e0b3b92c48)
+
+![image](https://github.com/user-attachments/assets/fffe96fa-5db1-4721-a001-50d01f2db628)
+
+![image](https://github.com/user-attachments/assets/704827b9-894d-42e9-a806-41c7202e298e)
+
+![image](https://github.com/user-attachments/assets/1830466a-8e64-44ab-b557-4fc4474fa47e)
+
 
 
 ## Analysis Steps
